@@ -37,16 +37,18 @@ Create a MySQL database for the project.
 
 Update the src/main/resources/application.properties file with your MySQL database connection details
 
-## How the Application Works
-**Account Management
+### How the Application Works
+### Account Management
 Create Account: Users can create new bank accounts by providing necessary details like account type, initial deposit, and customer information.
 View Accounts: Users can view a list of all accounts, along with details such as account balance and transaction history.
 Delete Account: Users can delete an account if it meets the criteria for deletion.
-**Customer Management
+
+### Customer Management
 Add Customer: Users can add new customers by providing their personal details.
 View Customers: Users can view a list of all customers along with their account details.
 Update Customer: Users can update existing customer information.
-**Transaction Processing
+
+### Transaction Processing
 Deposit Money: Users can deposit money into an account by specifying the account ID and amount.
 Withdraw Money: Users can withdraw money from an account by specifying the account ID and amount, provided the account has sufficient balance.
 Transfer Money: Users can transfer money between accounts by specifying the source account ID, destination account ID, and the amount.
