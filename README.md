@@ -37,7 +37,7 @@ Create a MySQL database for the project.
 
 Update the src/main/resources/application.properties file with your MySQL database connection details
 
-### How the Application Works
+## How the Application Works
 ### Account Management
 Create Account: Users can create new bank accounts by providing necessary details like account type, initial deposit, and customer information.
 View Accounts: Users can view a list of all accounts, along with details such as account balance and transaction history.
