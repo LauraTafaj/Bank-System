@@ -58,5 +58,4 @@ public class Account {
         this.transactions = transactions;
     }
 
-    // Additional methods if needed
 }
