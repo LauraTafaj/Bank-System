@@ -27,11 +27,11 @@ This is a Spring Boot-based Bank System project designed to manage bank operatio
    git clone https://github.com/yourusername/Bank-System.git
    cd Bank-System
    
-2. **Set up Java and Maven:
+2. **Set up Java and Maven:**
 
 Ensure you have the Java Development Kit (JDK) installed and the JAVA_HOME environment variable set. Also, install Maven and set the MAVEN_HOME environment variable.
 
-3. **Configure MySQL:
+3. **Configure MySQL:**
 
 Create a MySQL database for the project.
 
